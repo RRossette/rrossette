@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renan Rossette</h1>
-<h3 align="center">99 / 5.000 back-end developer with experience in infrastructure and now starting experiences in front</h3>
+<h3 align="center">Back-end developer with experience in infrastructure and now starting experiences in front</h3>
 
 
 
